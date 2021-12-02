@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INA827AIDGK
+D INA827 Wide Supply Range, Rail-to-Rail Output Instrumentation Amplifier With a Minimum Gain of 5
+K INA, Rail-to-Rail
+F https://www.ti.com/lit/ds/symlink/ina827.pdf?ts=1638430787143&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FINA827
+$ENDCMP
+#
+$CMP OPA2376AIDG4
+D OPAx376 Low-Noise, Low Quiescent Current, Precision Operational Amplifier e-trim Series
+K opamp, low-noise
+F https://www.ti.com/lit/ds/symlink/opa2376.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1638465146120&ref_url=https%253A%252F%252Feu.mouser.com%252F
+$ENDCMP
+#
+#End Doc Library
