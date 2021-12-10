@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L backend:INA827AIDGK U1
+L standalone-rescue:INA827AIDGK-backend U1
 U 1 1 61A91117
 P 4800 3150
 F 0 "U1" H 4800 3765 50  0000 C CNN
@@ -25,7 +25,7 @@ F 3 "https://www.ti.com/lit/ds/symlink/ina827.pdf?ts=1638430787143&ref_url=https
 	1    0    0    -1  
 $EndComp
 $Comp
-L backend:OPA2376AIDG4 U3
+L standalone-rescue:OPA2376AIDG4-backend U3
 U 1 1 61A95643
 P 6600 3250
 F 0 "U3" H 6725 3965 50  0000 C CNN
@@ -339,7 +339,7 @@ F 3 "" H 7100 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L backend:INA827AIDGK U2
+L standalone-rescue:INA827AIDGK-backend U2
 U 1 1 61B52794
 P 4800 4800
 F 0 "U2" H 4800 5415 50  0000 C CNN
@@ -350,7 +350,7 @@ F 3 "https://www.ti.com/lit/ds/symlink/ina827.pdf?ts=1638430787143&ref_url=https
 	1    0    0    -1  
 $EndComp
 $Comp
-L backend:OPA2376AIDG4 U4
+L standalone-rescue:OPA2376AIDG4-backend U4
 U 1 1 61B5279A
 P 6600 4900
 F 0 "U4" H 6725 5615 50  0000 C CNN
